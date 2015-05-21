@@ -1,2 +1,3 @@
-/project.properties
-/proguard-project.txt
+*project.properties
+*proguard-project.txt
+*.DS_Store
