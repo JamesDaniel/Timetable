@@ -1,0 +1,6 @@
+/project.properties
+/proguard-project.txt
+.DS_Store
+Icon*
+*.class
+Thumbs.db
